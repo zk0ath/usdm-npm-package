@@ -1,0 +1,19 @@
+{
+  "name": "@zk0ath/usdm-npm-package",
+  "version": "1.0.0",
+  "description": "usdm smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zk0ath/usdm-npm-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zk0ath/usdm-npm-package/issues"
+  },
+  "homepage": "https://github.com/zk0ath/usdm-npm-package#readme"
+}
