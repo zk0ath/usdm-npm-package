@@ -1,6 +1,6 @@
 {
   "name": "@zk0ath/usdm-npm-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "usdm smart contract",
   "main": "index.js",
   "scripts": {
